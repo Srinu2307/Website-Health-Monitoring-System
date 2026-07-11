@@ -4,7 +4,7 @@
 # Website Health Monitoring System
 #################################################
 
-TARGET="www.google.com"
+TARGET="$1"
 
 REPORT="reports/report.txt"
 LOG="logs/website.log"

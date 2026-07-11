@@ -162,17 +162,17 @@ The script leverages native Linux utilities and standard networking tools. Ensur
 
 **Basic Health Check:**
 ```bash
-./website_monitor.sh -t scanme.nmap.org
+./website_monitor.sh google.com
 ```
 
-**Verbose Mode (Debug):**
+**Run as Background Job:**
 ```bash
-./website_monitor.sh -t scanme.nmap.org --verbose
+nohup ./website_monitor.sh google.com &
 ```
 
-**Multiple Target Execution:**
+**View the Generated Report:**
 ```bash
-./website_monitor.sh -f targets.txt --export-json
+cat reports/report.txt
 ```
 
 ---
