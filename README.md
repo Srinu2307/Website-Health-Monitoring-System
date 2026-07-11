@@ -195,10 +195,14 @@ Utilizing high-performance `grep` against `curl` outputs, the tool searches for 
 
 ## 📊 Sample Output
 
-### Terminal Execution
-*(Replace with actual screenshot)*
+### Terminal Execution (Kali Linux)
 <div align="center">
-  <img src="assets/screenshots/terminal.png" alt="Terminal Output" width="80%">
+  <img src="assets/screenshots/terminal.png" alt="Terminal Output" width="100%">
+</div>
+
+### Generated Logs & Reports
+<div align="center">
+  <img src="assets/screenshots/logs.png" alt="Generated Logs and Reports" width="100%">
 </div>
 
 ### JSON Report Structure
@@ -235,34 +239,15 @@ This project is a testament to the following technical proficiencies:
 
 ---
 
-## 🛡️ Security Considerations
-
-See [SECURITY.md](SECURITY.md) for vulnerability reporting guidelines. This script is designed defensively using input sanitization to prevent OS Command Injection vulnerabilities.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on submitting pull requests.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 <div align="center">
   
-**Developed by [Your Name / Alias]**
+**Developed by [Srinivasulu Kamarthi]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamarthi-srinivasulu-1336ba382/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinu2307)
 
 <br>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radium)
 
 *(Visitor Counter Placeholder)*
 <!-- <img src="https://profile-counter.glitch.me/yourusername/count.svg" /> -->
