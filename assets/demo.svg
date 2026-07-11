@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" style="background-color:#000; border-radius:8px;">
+  <!-- Mac-like Window Controls -->
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+
+  <!-- Terminal Content -->
+  <g font-family="monospace" font-size="14" fill="#00ff00">
+    <text x="20" y="60">user@host:~$ ./website_monitor.sh -t google.com</text>
+    <text x="20" y="90" fill="#aaaaaa">==========================================</text>
+    <text x="20" y="110" fill="#aaaaaa"> Website Health Monitoring Report</text>
+    <text x="20" y="130" fill="#aaaaaa">==========================================</text>
+    <text x="20" y="160" fill="#fff">Target              : google.com</text>
+    <text x="20" y="180" fill="#27c93f">DNS                 : Resolved</text>
+    <text x="20" y="200" fill="#27c93f">Reachable           : YES</text>
+    <text x="20" y="220" fill="#27c93f">Port 80             : OPEN</text>
+    <text x="20" y="240" fill="#27c93f">Port 443            : OPEN</text>
+    <text x="20" y="260" fill="#ffbd2e">Risk Level          : Public Content</text>
+  </g>
+
+  <!-- Blinking Cursor -->
+  <rect x="250" y="250" width="10" height="16" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>

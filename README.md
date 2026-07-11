@@ -109,7 +109,7 @@ website-health-monitoring/
 │   ├── banner.png             # Project banner image
 │   ├── architecture.svg       # SVG Architecture diagram
 │   ├── workflow.svg           # SVG Workflow diagram
-│   └── demo.gif               # Terminal execution demo
+│   └── demo.svg               # Terminal execution demo
 ├── docs/
 │   ├── Project_Report.pdf     # Formal executive report
 │   ├── Architecture.md        # Detailed architecture docs
