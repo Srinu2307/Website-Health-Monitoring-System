@@ -16,8 +16,7 @@
   <img src="https://img.shields.io/badge/Language-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Language">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-success.svg?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintenance">
-  <img src="https://img.shields.io/github/v/release/yourusername/website-health-monitoring?style=flat-square" alt="Release">
+ 
 </p>
 
 A comprehensive, automated Linux Bash utility engineered to validate DNS resolution, evaluate network connectivity, monitor web services (HTTP/HTTPS), and proactively detect security exposures in real-time.
